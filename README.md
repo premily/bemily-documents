@@ -1,4 +1,8 @@
-# hapi-typescript-plugin
+# bemily-documents
+Plugin for storing and retrieving documents from database
+
+
+## hapi-typescript-plugin
 
 This is a very basic template to write [HapiJs-Plugins](http://hapijs.com/api#plugins) with TypeScript.
 
